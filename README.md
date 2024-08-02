@@ -1,4 +1,4 @@
-# e-wedo (e-commorec wedding orginizer bireuen)
+# E-Wedo (e-commerce Wedding Orginizer Bireuen)
 Aplikasi Marketplace wedding orginizer collab aditya aziz fikri untuk Yunda Uniki
 
 Untuk jalanin nya 
